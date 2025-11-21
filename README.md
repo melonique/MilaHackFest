@@ -1,7 +1,7 @@
-# Ressources
+# TO THE JUDGES:
+Quandela python code is in /main/pytorch_nn_test.py
 
 
-## IBM API KEY
 
 
 ## Le programme de la journée
