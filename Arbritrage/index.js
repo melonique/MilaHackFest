@@ -197,8 +197,19 @@ console.log(JSON.stringify(Equivalents, null, 0))
 
   // --- Résultat ---
   console.log("Résultat enrichi :", JSON.stringify(EquivalentsWithPrices, null, 2));
+/*
+  // Écriture dans le fichier
+  fs.writeFile('arbritage_opportunities.json', JSON.stringify(EquivalentsWithPrices, null, 2), (err) => {
+    if (err) {
+      console.error("Erreur lors de l'écriture :", err);
+    } else {
+      console.log("Fichier sauvegardé avec succès !");
+    }
+  });*/
+
 
   // Manquer la volatilité
+
 
 
 

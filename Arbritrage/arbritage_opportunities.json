@@ -1,0 +1,4239 @@
+[
+  {
+    "initial": {
+      "maturity": 0.5,
+      "tenor": 2,
+      "price": 0.104716459
+    },
+    "equivalent": [
+      {
+        "maturity": 0.5,
+        "tenor": 1,
+        "price": 0.095030618
+      },
+      {
+        "maturity": 1.5,
+        "tenor": 1,
+        "price": 0.184783853
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 0.5,
+      "tenor": 3,
+      "price": 0.101279922
+    },
+    "equivalent": [
+      {
+        "maturity": 0.5,
+        "tenor": 1,
+        "price": 0.095030618
+      },
+      {
+        "maturity": 1.5,
+        "tenor": 2,
+        "price": 0.174659205
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 0.5,
+      "tenor": 4,
+      "price": 0.100354868
+    },
+    "equivalent": [
+      {
+        "maturity": 0.5,
+        "tenor": 1,
+        "price": 0.095030618
+      },
+      {
+        "maturity": 1.5,
+        "tenor": 3,
+        "price": 0.16840129
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 0.5,
+      "tenor": 5,
+      "price": 0.098728282
+    },
+    "equivalent": [
+      {
+        "maturity": 0.5,
+        "tenor": 1,
+        "price": 0.095030618
+      },
+      {
+        "maturity": 1.5,
+        "tenor": 4,
+        "price": 0.165567074
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 0.5,
+      "tenor": 6,
+      "price": 0.096764196
+    },
+    "equivalent": [
+      {
+        "maturity": 0.5,
+        "tenor": 1,
+        "price": 0.095030618
+      },
+      {
+        "maturity": 1.5,
+        "tenor": 5,
+        "price": 0.162868388
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 0.5,
+      "tenor": 7,
+      "price": 0.092295647
+    },
+    "equivalent": [
+      {
+        "maturity": 0.5,
+        "tenor": 1,
+        "price": 0.095030618
+      },
+      {
+        "maturity": 1.5,
+        "tenor": 6,
+        "price": 0.158131123
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 0.5,
+      "tenor": 8,
+      "price": 0.090176962
+    },
+    "equivalent": [
+      {
+        "maturity": 0.5,
+        "tenor": 1,
+        "price": 0.095030618
+      },
+      {
+        "maturity": 1.5,
+        "tenor": 7,
+        "price": 0.15353575
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 0.5,
+      "tenor": 9,
+      "price": 0.090002301
+    },
+    "equivalent": [
+      {
+        "maturity": 0.5,
+        "tenor": 1,
+        "price": 0.095030618
+      },
+      {
+        "maturity": 1.5,
+        "tenor": 8,
+        "price": 0.149974533
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 0.5,
+      "tenor": 10,
+      "price": 0.086316337
+    },
+    "equivalent": [
+      {
+        "maturity": 0.5,
+        "tenor": 1,
+        "price": 0.095030618
+      },
+      {
+        "maturity": 1.5,
+        "tenor": 9,
+        "price": 0.147711278
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 2,
+      "price": 0.149700996
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 1,
+        "price": 0.155058013
+      },
+      {
+        "maturity": 2,
+        "tenor": 1,
+        "price": 0.20110667
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 3,
+      "price": 0.145457464
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 1,
+        "price": 0.155058013
+      },
+      {
+        "maturity": 2,
+        "tenor": 2,
+        "price": 0.19454646
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 3,
+      "price": 0.145457464
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 2,
+        "price": 0.149700996
+      },
+      {
+        "maturity": 3,
+        "tenor": 1,
+        "price": 0.227692768
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 4,
+      "price": 0.138568766
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 1,
+        "price": 0.155058013
+      },
+      {
+        "maturity": 2,
+        "tenor": 3,
+        "price": 0.190985179
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 4,
+      "price": 0.138568766
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 2,
+        "price": 0.149700996
+      },
+      {
+        "maturity": 3,
+        "tenor": 2,
+        "price": 0.214867613
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 4,
+      "price": 0.138568766
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 3,
+        "price": 0.145457464
+      },
+      {
+        "maturity": 4,
+        "tenor": 1,
+        "price": 0.241174402
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 5,
+      "price": 0.137195492
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 1,
+        "price": 0.155058013
+      },
+      {
+        "maturity": 2,
+        "tenor": 4,
+        "price": 0.185442252
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 5,
+      "price": 0.137195492
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 2,
+        "price": 0.149700996
+      },
+      {
+        "maturity": 3,
+        "tenor": 3,
+        "price": 0.214631888
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 5,
+      "price": 0.137195492
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 3,
+        "price": 0.145457464
+      },
+      {
+        "maturity": 4,
+        "tenor": 2,
+        "price": 0.238314888
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 5,
+      "price": 0.137195492
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 4,
+        "price": 0.138568766
+      },
+      {
+        "maturity": 5,
+        "tenor": 1,
+        "price": 0.257258946
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 6,
+      "price": 0.129940724
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 1,
+        "price": 0.155058013
+      },
+      {
+        "maturity": 2,
+        "tenor": 5,
+        "price": 0.181366179
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 6,
+      "price": 0.129940724
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 2,
+        "price": 0.149700996
+      },
+      {
+        "maturity": 3,
+        "tenor": 4,
+        "price": 0.212635111
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 6,
+      "price": 0.129940724
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 3,
+        "price": 0.145457464
+      },
+      {
+        "maturity": 4,
+        "tenor": 3,
+        "price": 0.230383991
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 6,
+      "price": 0.129940724
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 4,
+        "price": 0.138568766
+      },
+      {
+        "maturity": 5,
+        "tenor": 2,
+        "price": 0.247516551
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 7,
+      "price": 0.128409497
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 1,
+        "price": 0.155058013
+      },
+      {
+        "maturity": 2,
+        "tenor": 6,
+        "price": 0.174429177
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 7,
+      "price": 0.128409497
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 2,
+        "price": 0.149700996
+      },
+      {
+        "maturity": 3,
+        "tenor": 5,
+        "price": 0.202971456
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 7,
+      "price": 0.128409497
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 3,
+        "price": 0.145457464
+      },
+      {
+        "maturity": 4,
+        "tenor": 4,
+        "price": 0.228639544
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 7,
+      "price": 0.128409497
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 4,
+        "price": 0.138568766
+      },
+      {
+        "maturity": 5,
+        "tenor": 3,
+        "price": 0.245925406
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 7,
+      "price": 0.128409497
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 6,
+        "price": 0.129940724
+      },
+      {
+        "maturity": 7,
+        "tenor": 1,
+        "price": 0.266384376
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 8,
+      "price": 0.125019487
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 1,
+        "price": 0.155058013
+      },
+      {
+        "maturity": 2,
+        "tenor": 7,
+        "price": 0.174597187
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 8,
+      "price": 0.125019487
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 2,
+        "price": 0.149700996
+      },
+      {
+        "maturity": 3,
+        "tenor": 6,
+        "price": 0.19947398
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 8,
+      "price": 0.125019487
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 3,
+        "price": 0.145457464
+      },
+      {
+        "maturity": 4,
+        "tenor": 5,
+        "price": 0.221535945
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 8,
+      "price": 0.125019487
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 4,
+        "price": 0.138568766
+      },
+      {
+        "maturity": 5,
+        "tenor": 4,
+        "price": 0.239010895
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 8,
+      "price": 0.125019487
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 6,
+        "price": 0.129940724
+      },
+      {
+        "maturity": 7,
+        "tenor": 2,
+        "price": 0.263754488
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 9,
+      "price": 0.122755821
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 1,
+        "price": 0.155058013
+      },
+      {
+        "maturity": 2,
+        "tenor": 8,
+        "price": 0.168001462
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 9,
+      "price": 0.122755821
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 2,
+        "price": 0.149700996
+      },
+      {
+        "maturity": 3,
+        "tenor": 7,
+        "price": 0.200123582
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 9,
+      "price": 0.122755821
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 3,
+        "price": 0.145457464
+      },
+      {
+        "maturity": 4,
+        "tenor": 6,
+        "price": 0.222331957
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 9,
+      "price": 0.122755821
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 4,
+        "price": 0.138568766
+      },
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 9,
+      "price": 0.122755821
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 6,
+        "price": 0.129940724
+      },
+      {
+        "maturity": 7,
+        "tenor": 3,
+        "price": 0.260431771
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 10,
+      "price": 0.123407704
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 1,
+        "price": 0.155058013
+      },
+      {
+        "maturity": 2,
+        "tenor": 9,
+        "price": 0.166378026
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 10,
+      "price": 0.123407704
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 2,
+        "price": 0.149700996
+      },
+      {
+        "maturity": 3,
+        "tenor": 8,
+        "price": 0.195587023
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 10,
+      "price": 0.123407704
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 3,
+        "price": 0.145457464
+      },
+      {
+        "maturity": 4,
+        "tenor": 7,
+        "price": 0.217484381
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 10,
+      "price": 0.123407704
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 4,
+        "price": 0.138568766
+      },
+      {
+        "maturity": 5,
+        "tenor": 6,
+        "price": 0.233077172
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 10,
+      "price": 0.123407704
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 6,
+        "price": 0.129940724
+      },
+      {
+        "maturity": 7,
+        "tenor": 4,
+        "price": 0.253917604
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 10,
+      "price": 0.123407704
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 9,
+        "price": 0.122755821
+      },
+      {
+        "maturity": 10,
+        "tenor": 1,
+        "price": 0.275485926
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 15,
+      "price": 0.114851891
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 6,
+        "price": 0.129940724
+      },
+      {
+        "maturity": 7,
+        "tenor": 9,
+        "price": 0.244882948
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 1,
+      "tenor": 15,
+      "price": 0.114851891
+    },
+    "equivalent": [
+      {
+        "maturity": 1,
+        "tenor": 9,
+        "price": 0.122755821
+      },
+      {
+        "maturity": 10,
+        "tenor": 6,
+        "price": 0.260853721
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 2,
+      "price": 0.19454646
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 1,
+        "price": 0.20110667
+      },
+      {
+        "maturity": 3,
+        "tenor": 1,
+        "price": 0.227692768
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 3,
+      "price": 0.190985179
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 1,
+        "price": 0.20110667
+      },
+      {
+        "maturity": 3,
+        "tenor": 2,
+        "price": 0.214867613
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 3,
+      "price": 0.190985179
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 2,
+        "price": 0.19454646
+      },
+      {
+        "maturity": 4,
+        "tenor": 1,
+        "price": 0.241174402
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 4,
+      "price": 0.185442252
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 1,
+        "price": 0.20110667
+      },
+      {
+        "maturity": 3,
+        "tenor": 3,
+        "price": 0.214631888
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 4,
+      "price": 0.185442252
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 2,
+        "price": 0.19454646
+      },
+      {
+        "maturity": 4,
+        "tenor": 2,
+        "price": 0.238314888
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 4,
+      "price": 0.185442252
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 3,
+        "price": 0.190985179
+      },
+      {
+        "maturity": 5,
+        "tenor": 1,
+        "price": 0.257258946
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 5,
+      "price": 0.181366179
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 1,
+        "price": 0.20110667
+      },
+      {
+        "maturity": 3,
+        "tenor": 4,
+        "price": 0.212635111
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 5,
+      "price": 0.181366179
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 2,
+        "price": 0.19454646
+      },
+      {
+        "maturity": 4,
+        "tenor": 3,
+        "price": 0.230383991
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 5,
+      "price": 0.181366179
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 3,
+        "price": 0.190985179
+      },
+      {
+        "maturity": 5,
+        "tenor": 2,
+        "price": 0.247516551
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 6,
+      "price": 0.174429177
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 1,
+        "price": 0.20110667
+      },
+      {
+        "maturity": 3,
+        "tenor": 5,
+        "price": 0.202971456
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 6,
+      "price": 0.174429177
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 2,
+        "price": 0.19454646
+      },
+      {
+        "maturity": 4,
+        "tenor": 4,
+        "price": 0.228639544
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 6,
+      "price": 0.174429177
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 3,
+        "price": 0.190985179
+      },
+      {
+        "maturity": 5,
+        "tenor": 3,
+        "price": 0.245925406
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 6,
+      "price": 0.174429177
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 5,
+        "price": 0.181366179
+      },
+      {
+        "maturity": 7,
+        "tenor": 1,
+        "price": 0.266384376
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 7,
+      "price": 0.174597187
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 1,
+        "price": 0.20110667
+      },
+      {
+        "maturity": 3,
+        "tenor": 6,
+        "price": 0.19947398
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 7,
+      "price": 0.174597187
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 2,
+        "price": 0.19454646
+      },
+      {
+        "maturity": 4,
+        "tenor": 5,
+        "price": 0.221535945
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 7,
+      "price": 0.174597187
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 3,
+        "price": 0.190985179
+      },
+      {
+        "maturity": 5,
+        "tenor": 4,
+        "price": 0.239010895
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 7,
+      "price": 0.174597187
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 5,
+        "price": 0.181366179
+      },
+      {
+        "maturity": 7,
+        "tenor": 2,
+        "price": 0.263754488
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 8,
+      "price": 0.168001462
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 1,
+        "price": 0.20110667
+      },
+      {
+        "maturity": 3,
+        "tenor": 7,
+        "price": 0.200123582
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 8,
+      "price": 0.168001462
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 2,
+        "price": 0.19454646
+      },
+      {
+        "maturity": 4,
+        "tenor": 6,
+        "price": 0.222331957
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 8,
+      "price": 0.168001462
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 3,
+        "price": 0.190985179
+      },
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 8,
+      "price": 0.168001462
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 5,
+        "price": 0.181366179
+      },
+      {
+        "maturity": 7,
+        "tenor": 3,
+        "price": 0.260431771
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 9,
+      "price": 0.166378026
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 1,
+        "price": 0.20110667
+      },
+      {
+        "maturity": 3,
+        "tenor": 8,
+        "price": 0.195587023
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 9,
+      "price": 0.166378026
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 2,
+        "price": 0.19454646
+      },
+      {
+        "maturity": 4,
+        "tenor": 7,
+        "price": 0.217484381
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 9,
+      "price": 0.166378026
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 3,
+        "price": 0.190985179
+      },
+      {
+        "maturity": 5,
+        "tenor": 6,
+        "price": 0.233077172
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 9,
+      "price": 0.166378026
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 5,
+        "price": 0.181366179
+      },
+      {
+        "maturity": 7,
+        "tenor": 4,
+        "price": 0.253917604
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 9,
+      "price": 0.166378026
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 8,
+        "price": 0.168001462
+      },
+      {
+        "maturity": 10,
+        "tenor": 1,
+        "price": 0.275485926
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 10,
+      "price": 0.166807648
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 1,
+        "price": 0.20110667
+      },
+      {
+        "maturity": 3,
+        "tenor": 9,
+        "price": 0.195828832
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 10,
+      "price": 0.166807648
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 2,
+        "price": 0.19454646
+      },
+      {
+        "maturity": 4,
+        "tenor": 8,
+        "price": 0.211798215
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 10,
+      "price": 0.166807648
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 3,
+        "price": 0.190985179
+      },
+      {
+        "maturity": 5,
+        "tenor": 7,
+        "price": 0.231146707
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 10,
+      "price": 0.166807648
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 5,
+        "price": 0.181366179
+      },
+      {
+        "maturity": 7,
+        "tenor": 5,
+        "price": 0.257367189
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 10,
+      "price": 0.166807648
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 8,
+        "price": 0.168001462
+      },
+      {
+        "maturity": 10,
+        "tenor": 2,
+        "price": 0.276571927
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 15,
+      "price": 0.154276474
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 5,
+        "price": 0.181366179
+      },
+      {
+        "maturity": 7,
+        "tenor": 10,
+        "price": 0.243476689
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 15,
+      "price": 0.154276474
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 8,
+        "price": 0.168001462
+      },
+      {
+        "maturity": 10,
+        "tenor": 7,
+        "price": 0.260943525
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 20,
+      "price": 0.151087866
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 5,
+        "price": 0.181366179
+      },
+      {
+        "maturity": 7,
+        "tenor": 15,
+        "price": 0.239384681
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 25,
+      "price": 0.151153562
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 5,
+        "price": 0.181366179
+      },
+      {
+        "maturity": 7,
+        "tenor": 20,
+        "price": 0.2396864
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 2,
+      "tenor": 30,
+      "price": 0.156569222
+    },
+    "equivalent": [
+      {
+        "maturity": 2,
+        "tenor": 5,
+        "price": 0.181366179
+      },
+      {
+        "maturity": 7,
+        "tenor": 25,
+        "price": 0.23911986
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 2,
+      "price": 0.214867613
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 1,
+        "price": 0.227692768
+      },
+      {
+        "maturity": 4,
+        "tenor": 1,
+        "price": 0.241174402
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 3,
+      "price": 0.214631888
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 1,
+        "price": 0.227692768
+      },
+      {
+        "maturity": 4,
+        "tenor": 2,
+        "price": 0.238314888
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 3,
+      "price": 0.214631888
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 2,
+        "price": 0.214867613
+      },
+      {
+        "maturity": 5,
+        "tenor": 1,
+        "price": 0.257258946
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 4,
+      "price": 0.212635111
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 1,
+        "price": 0.227692768
+      },
+      {
+        "maturity": 4,
+        "tenor": 3,
+        "price": 0.230383991
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 4,
+      "price": 0.212635111
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 2,
+        "price": 0.214867613
+      },
+      {
+        "maturity": 5,
+        "tenor": 2,
+        "price": 0.247516551
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 5,
+      "price": 0.202971456
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 1,
+        "price": 0.227692768
+      },
+      {
+        "maturity": 4,
+        "tenor": 4,
+        "price": 0.228639544
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 5,
+      "price": 0.202971456
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 2,
+        "price": 0.214867613
+      },
+      {
+        "maturity": 5,
+        "tenor": 3,
+        "price": 0.245925406
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 5,
+      "price": 0.202971456
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 4,
+        "price": 0.212635111
+      },
+      {
+        "maturity": 7,
+        "tenor": 1,
+        "price": 0.266384376
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 6,
+      "price": 0.19947398
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 1,
+        "price": 0.227692768
+      },
+      {
+        "maturity": 4,
+        "tenor": 5,
+        "price": 0.221535945
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 6,
+      "price": 0.19947398
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 2,
+        "price": 0.214867613
+      },
+      {
+        "maturity": 5,
+        "tenor": 4,
+        "price": 0.239010895
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 6,
+      "price": 0.19947398
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 4,
+        "price": 0.212635111
+      },
+      {
+        "maturity": 7,
+        "tenor": 2,
+        "price": 0.263754488
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 7,
+      "price": 0.200123582
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 1,
+        "price": 0.227692768
+      },
+      {
+        "maturity": 4,
+        "tenor": 6,
+        "price": 0.222331957
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 7,
+      "price": 0.200123582
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 2,
+        "price": 0.214867613
+      },
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 7,
+      "price": 0.200123582
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 4,
+        "price": 0.212635111
+      },
+      {
+        "maturity": 7,
+        "tenor": 3,
+        "price": 0.260431771
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 8,
+      "price": 0.195587023
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 1,
+        "price": 0.227692768
+      },
+      {
+        "maturity": 4,
+        "tenor": 7,
+        "price": 0.217484381
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 8,
+      "price": 0.195587023
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 2,
+        "price": 0.214867613
+      },
+      {
+        "maturity": 5,
+        "tenor": 6,
+        "price": 0.233077172
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 8,
+      "price": 0.195587023
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 4,
+        "price": 0.212635111
+      },
+      {
+        "maturity": 7,
+        "tenor": 4,
+        "price": 0.253917604
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 8,
+      "price": 0.195587023
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 7,
+        "price": 0.200123582
+      },
+      {
+        "maturity": 10,
+        "tenor": 1,
+        "price": 0.275485926
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 9,
+      "price": 0.195828832
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 1,
+        "price": 0.227692768
+      },
+      {
+        "maturity": 4,
+        "tenor": 8,
+        "price": 0.211798215
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 9,
+      "price": 0.195828832
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 2,
+        "price": 0.214867613
+      },
+      {
+        "maturity": 5,
+        "tenor": 7,
+        "price": 0.231146707
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 9,
+      "price": 0.195828832
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 4,
+        "price": 0.212635111
+      },
+      {
+        "maturity": 7,
+        "tenor": 5,
+        "price": 0.257367189
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 9,
+      "price": 0.195828832
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 7,
+        "price": 0.200123582
+      },
+      {
+        "maturity": 10,
+        "tenor": 2,
+        "price": 0.276571927
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 10,
+      "price": 0.189974785
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 1,
+        "price": 0.227692768
+      },
+      {
+        "maturity": 4,
+        "tenor": 9,
+        "price": 0.210623443
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 10,
+      "price": 0.189974785
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 2,
+        "price": 0.214867613
+      },
+      {
+        "maturity": 5,
+        "tenor": 8,
+        "price": 0.229674423
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 10,
+      "price": 0.189974785
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 4,
+        "price": 0.212635111
+      },
+      {
+        "maturity": 7,
+        "tenor": 6,
+        "price": 0.246960278
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 10,
+      "price": 0.189974785
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 7,
+        "price": 0.200123582
+      },
+      {
+        "maturity": 10,
+        "tenor": 3,
+        "price": 0.266848586
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 3,
+      "tenor": 15,
+      "price": 0.183596449
+    },
+    "equivalent": [
+      {
+        "maturity": 3,
+        "tenor": 7,
+        "price": 0.200123582
+      },
+      {
+        "maturity": 10,
+        "tenor": 8,
+        "price": 0.257460221
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 2,
+      "price": 0.238314888
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 1,
+        "price": 0.241174402
+      },
+      {
+        "maturity": 5,
+        "tenor": 1,
+        "price": 0.257258946
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 3,
+      "price": 0.230383991
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 1,
+        "price": 0.241174402
+      },
+      {
+        "maturity": 5,
+        "tenor": 2,
+        "price": 0.247516551
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 4,
+      "price": 0.228639544
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 1,
+        "price": 0.241174402
+      },
+      {
+        "maturity": 5,
+        "tenor": 3,
+        "price": 0.245925406
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 4,
+      "price": 0.228639544
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 3,
+        "price": 0.230383991
+      },
+      {
+        "maturity": 7,
+        "tenor": 1,
+        "price": 0.266384376
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 5,
+      "price": 0.221535945
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 1,
+        "price": 0.241174402
+      },
+      {
+        "maturity": 5,
+        "tenor": 4,
+        "price": 0.239010895
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 5,
+      "price": 0.221535945
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 3,
+        "price": 0.230383991
+      },
+      {
+        "maturity": 7,
+        "tenor": 2,
+        "price": 0.263754488
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 6,
+      "price": 0.222331957
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 1,
+        "price": 0.241174402
+      },
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 6,
+      "price": 0.222331957
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 3,
+        "price": 0.230383991
+      },
+      {
+        "maturity": 7,
+        "tenor": 3,
+        "price": 0.260431771
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 7,
+      "price": 0.217484381
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 1,
+        "price": 0.241174402
+      },
+      {
+        "maturity": 5,
+        "tenor": 6,
+        "price": 0.233077172
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 7,
+      "price": 0.217484381
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 3,
+        "price": 0.230383991
+      },
+      {
+        "maturity": 7,
+        "tenor": 4,
+        "price": 0.253917604
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 7,
+      "price": 0.217484381
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 6,
+        "price": 0.222331957
+      },
+      {
+        "maturity": 10,
+        "tenor": 1,
+        "price": 0.275485926
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 8,
+      "price": 0.211798215
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 1,
+        "price": 0.241174402
+      },
+      {
+        "maturity": 5,
+        "tenor": 7,
+        "price": 0.231146707
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 8,
+      "price": 0.211798215
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 3,
+        "price": 0.230383991
+      },
+      {
+        "maturity": 7,
+        "tenor": 5,
+        "price": 0.257367189
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 8,
+      "price": 0.211798215
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 6,
+        "price": 0.222331957
+      },
+      {
+        "maturity": 10,
+        "tenor": 2,
+        "price": 0.276571927
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 9,
+      "price": 0.210623443
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 1,
+        "price": 0.241174402
+      },
+      {
+        "maturity": 5,
+        "tenor": 8,
+        "price": 0.229674423
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 9,
+      "price": 0.210623443
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 3,
+        "price": 0.230383991
+      },
+      {
+        "maturity": 7,
+        "tenor": 6,
+        "price": 0.246960278
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 9,
+      "price": 0.210623443
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 6,
+        "price": 0.222331957
+      },
+      {
+        "maturity": 10,
+        "tenor": 3,
+        "price": 0.266848586
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 10,
+      "price": 0.20802915
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 1,
+        "price": 0.241174402
+      },
+      {
+        "maturity": 5,
+        "tenor": 9,
+        "price": 0.227303121
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 10,
+      "price": 0.20802915
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 3,
+        "price": 0.230383991
+      },
+      {
+        "maturity": 7,
+        "tenor": 7,
+        "price": 0.247747858
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 10,
+      "price": 0.20802915
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 6,
+        "price": 0.222331957
+      },
+      {
+        "maturity": 10,
+        "tenor": 4,
+        "price": 0.269108245
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 4,
+      "tenor": 15,
+      "price": 0.202881285
+    },
+    "equivalent": [
+      {
+        "maturity": 4,
+        "tenor": 6,
+        "price": 0.222331957
+      },
+      {
+        "maturity": 10,
+        "tenor": 9,
+        "price": 0.253175889
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 3,
+      "price": 0.245925406
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 2,
+        "price": 0.247516551
+      },
+      {
+        "maturity": 7,
+        "tenor": 1,
+        "price": 0.266384376
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 4,
+      "price": 0.239010895
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 2,
+        "price": 0.247516551
+      },
+      {
+        "maturity": 7,
+        "tenor": 2,
+        "price": 0.263754488
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 5,
+      "price": 0.239026569
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 2,
+        "price": 0.247516551
+      },
+      {
+        "maturity": 7,
+        "tenor": 3,
+        "price": 0.260431771
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 6,
+      "price": 0.233077172
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 2,
+        "price": 0.247516551
+      },
+      {
+        "maturity": 7,
+        "tenor": 4,
+        "price": 0.253917604
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 6,
+      "price": 0.233077172
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      },
+      {
+        "maturity": 10,
+        "tenor": 1,
+        "price": 0.275485926
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 7,
+      "price": 0.231146707
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 2,
+        "price": 0.247516551
+      },
+      {
+        "maturity": 7,
+        "tenor": 5,
+        "price": 0.257367189
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 7,
+      "price": 0.231146707
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      },
+      {
+        "maturity": 10,
+        "tenor": 2,
+        "price": 0.276571927
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 8,
+      "price": 0.229674423
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 2,
+        "price": 0.247516551
+      },
+      {
+        "maturity": 7,
+        "tenor": 6,
+        "price": 0.246960278
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 8,
+      "price": 0.229674423
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      },
+      {
+        "maturity": 10,
+        "tenor": 3,
+        "price": 0.266848586
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 9,
+      "price": 0.227303121
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 2,
+        "price": 0.247516551
+      },
+      {
+        "maturity": 7,
+        "tenor": 7,
+        "price": 0.247747858
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 9,
+      "price": 0.227303121
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      },
+      {
+        "maturity": 10,
+        "tenor": 4,
+        "price": 0.269108245
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 10,
+      "price": 0.225291413
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 2,
+        "price": 0.247516551
+      },
+      {
+        "maturity": 7,
+        "tenor": 8,
+        "price": 0.241705577
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 10,
+      "price": 0.225291413
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      },
+      {
+        "maturity": 10,
+        "tenor": 5,
+        "price": 0.259904828
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 15,
+      "price": 0.213276279
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      },
+      {
+        "maturity": 10,
+        "tenor": 10,
+        "price": 0.251948143
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 15,
+      "price": 0.213276279
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 10,
+        "price": 0.225291413
+      },
+      {
+        "maturity": 15,
+        "tenor": 5,
+        "price": 0.276366777
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 20,
+      "price": 0.217319705
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      },
+      {
+        "maturity": 10,
+        "tenor": 15,
+        "price": 0.253340542
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 20,
+      "price": 0.217319705
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 10,
+        "price": 0.225291413
+      },
+      {
+        "maturity": 15,
+        "tenor": 10,
+        "price": 0.272272272
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 20,
+      "price": 0.217319705
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 15,
+        "price": 0.213276279
+      },
+      {
+        "maturity": 20,
+        "tenor": 5,
+        "price": 0.29112574
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 25,
+      "price": 0.21790176
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      },
+      {
+        "maturity": 10,
+        "tenor": 20,
+        "price": 0.255096492
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 25,
+      "price": 0.21790176
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 10,
+        "price": 0.225291413
+      },
+      {
+        "maturity": 15,
+        "tenor": 15,
+        "price": 0.2706062
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 25,
+      "price": 0.21790176
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 15,
+        "price": 0.213276279
+      },
+      {
+        "maturity": 20,
+        "tenor": 10,
+        "price": 0.289368579
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 25,
+      "price": 0.21790176
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 20,
+        "price": 0.217319705
+      },
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 30,
+      "price": 0.218848615
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 5,
+        "price": 0.239026569
+      },
+      {
+        "maturity": 10,
+        "tenor": 25,
+        "price": 0.26465508
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 30,
+      "price": 0.218848615
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 10,
+        "price": 0.225291413
+      },
+      {
+        "maturity": 15,
+        "tenor": 20,
+        "price": 0.280577705
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 30,
+      "price": 0.218848615
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 15,
+        "price": 0.213276279
+      },
+      {
+        "maturity": 20,
+        "tenor": 15,
+        "price": 0.295537135
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 30,
+      "price": 0.218848615
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 20,
+        "price": 0.217319705
+      },
+      {
+        "maturity": 25,
+        "tenor": 10,
+        "price": 0.308700298
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 5,
+      "tenor": 30,
+      "price": 0.218848615
+    },
+    "equivalent": [
+      {
+        "maturity": 5,
+        "tenor": 25,
+        "price": 0.21790176
+      },
+      {
+        "maturity": 30,
+        "tenor": 5,
+        "price": 0.331053173
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 7,
+      "tenor": 4,
+      "price": 0.253917604
+    },
+    "equivalent": [
+      {
+        "maturity": 7,
+        "tenor": 3,
+        "price": 0.260431771
+      },
+      {
+        "maturity": 10,
+        "tenor": 1,
+        "price": 0.275485926
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 7,
+      "tenor": 5,
+      "price": 0.257367189
+    },
+    "equivalent": [
+      {
+        "maturity": 7,
+        "tenor": 3,
+        "price": 0.260431771
+      },
+      {
+        "maturity": 10,
+        "tenor": 2,
+        "price": 0.276571927
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 7,
+      "tenor": 6,
+      "price": 0.246960278
+    },
+    "equivalent": [
+      {
+        "maturity": 7,
+        "tenor": 3,
+        "price": 0.260431771
+      },
+      {
+        "maturity": 10,
+        "tenor": 3,
+        "price": 0.266848586
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 7,
+      "tenor": 7,
+      "price": 0.247747858
+    },
+    "equivalent": [
+      {
+        "maturity": 7,
+        "tenor": 3,
+        "price": 0.260431771
+      },
+      {
+        "maturity": 10,
+        "tenor": 4,
+        "price": 0.269108245
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 7,
+      "tenor": 8,
+      "price": 0.241705577
+    },
+    "equivalent": [
+      {
+        "maturity": 7,
+        "tenor": 3,
+        "price": 0.260431771
+      },
+      {
+        "maturity": 10,
+        "tenor": 5,
+        "price": 0.259904828
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 7,
+      "tenor": 9,
+      "price": 0.244882948
+    },
+    "equivalent": [
+      {
+        "maturity": 7,
+        "tenor": 3,
+        "price": 0.260431771
+      },
+      {
+        "maturity": 10,
+        "tenor": 6,
+        "price": 0.260853721
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 7,
+      "tenor": 9,
+      "price": 0.244882948
+    },
+    "equivalent": [
+      {
+        "maturity": 7,
+        "tenor": 8,
+        "price": 0.241705577
+      },
+      {
+        "maturity": 15,
+        "tenor": 1,
+        "price": 0.280885307
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 7,
+      "tenor": 10,
+      "price": 0.243476689
+    },
+    "equivalent": [
+      {
+        "maturity": 7,
+        "tenor": 3,
+        "price": 0.260431771
+      },
+      {
+        "maturity": 10,
+        "tenor": 7,
+        "price": 0.260943525
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 7,
+      "tenor": 10,
+      "price": 0.243476689
+    },
+    "equivalent": [
+      {
+        "maturity": 7,
+        "tenor": 8,
+        "price": 0.241705577
+      },
+      {
+        "maturity": 15,
+        "tenor": 2,
+        "price": 0.281137821
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 7,
+      "tenor": 15,
+      "price": 0.239384681
+    },
+    "equivalent": [
+      {
+        "maturity": 7,
+        "tenor": 8,
+        "price": 0.241705577
+      },
+      {
+        "maturity": 15,
+        "tenor": 7,
+        "price": 0.273213237
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 6,
+      "price": 0.260853721
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 5,
+        "price": 0.259904828
+      },
+      {
+        "maturity": 15,
+        "tenor": 1,
+        "price": 0.280885307
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 7,
+      "price": 0.260943525
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 5,
+        "price": 0.259904828
+      },
+      {
+        "maturity": 15,
+        "tenor": 2,
+        "price": 0.281137821
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 8,
+      "price": 0.257460221
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 5,
+        "price": 0.259904828
+      },
+      {
+        "maturity": 15,
+        "tenor": 3,
+        "price": 0.27313089
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 9,
+      "price": 0.253175889
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 5,
+        "price": 0.259904828
+      },
+      {
+        "maturity": 15,
+        "tenor": 4,
+        "price": 0.270695559
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 10,
+      "price": 0.251948143
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 5,
+        "price": 0.259904828
+      },
+      {
+        "maturity": 15,
+        "tenor": 5,
+        "price": 0.276366777
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 15,
+      "price": 0.253340542
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 5,
+        "price": 0.259904828
+      },
+      {
+        "maturity": 15,
+        "tenor": 10,
+        "price": 0.272272272
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 15,
+      "price": 0.253340542
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 10,
+        "price": 0.251948143
+      },
+      {
+        "maturity": 20,
+        "tenor": 5,
+        "price": 0.29112574
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 20,
+      "price": 0.255096492
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 5,
+        "price": 0.259904828
+      },
+      {
+        "maturity": 15,
+        "tenor": 15,
+        "price": 0.2706062
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 20,
+      "price": 0.255096492
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 10,
+        "price": 0.251948143
+      },
+      {
+        "maturity": 20,
+        "tenor": 10,
+        "price": 0.289368579
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 20,
+      "price": 0.255096492
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 15,
+        "price": 0.253340542
+      },
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 25,
+      "price": 0.26465508
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 5,
+        "price": 0.259904828
+      },
+      {
+        "maturity": 15,
+        "tenor": 20,
+        "price": 0.280577705
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 25,
+      "price": 0.26465508
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 10,
+        "price": 0.251948143
+      },
+      {
+        "maturity": 20,
+        "tenor": 15,
+        "price": 0.295537135
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 25,
+      "price": 0.26465508
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 15,
+        "price": 0.253340542
+      },
+      {
+        "maturity": 25,
+        "tenor": 10,
+        "price": 0.308700298
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 25,
+      "price": 0.26465508
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 20,
+        "price": 0.255096492
+      },
+      {
+        "maturity": 30,
+        "tenor": 5,
+        "price": 0.331053173
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 30,
+      "price": 0.274354207
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 5,
+        "price": 0.259904828
+      },
+      {
+        "maturity": 15,
+        "tenor": 25,
+        "price": 0.285035483
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 30,
+      "price": 0.274354207
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 10,
+        "price": 0.251948143
+      },
+      {
+        "maturity": 20,
+        "tenor": 20,
+        "price": 0.302273435
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 30,
+      "price": 0.274354207
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 15,
+        "price": 0.253340542
+      },
+      {
+        "maturity": 25,
+        "tenor": 15,
+        "price": 0.323220627
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 10,
+      "tenor": 30,
+      "price": 0.274354207
+    },
+    "equivalent": [
+      {
+        "maturity": 10,
+        "tenor": 20,
+        "price": 0.255096492
+      },
+      {
+        "maturity": 30,
+        "tenor": 10,
+        "price": 0.322392955
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 6,
+      "price": 0.27316519
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 5,
+        "price": 0.276366777
+      },
+      {
+        "maturity": 20,
+        "tenor": 1,
+        "price": 0.292746535
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 7,
+      "price": 0.273213237
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 5,
+        "price": 0.276366777
+      },
+      {
+        "maturity": 20,
+        "tenor": 2,
+        "price": 0.292790335
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 8,
+      "price": 0.271016487
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 5,
+        "price": 0.276366777
+      },
+      {
+        "maturity": 20,
+        "tenor": 3,
+        "price": 0.29364685
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 9,
+      "price": 0.272064582
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 5,
+        "price": 0.276366777
+      },
+      {
+        "maturity": 20,
+        "tenor": 4,
+        "price": 0.293397959
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 10,
+      "price": 0.272272272
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 5,
+        "price": 0.276366777
+      },
+      {
+        "maturity": 20,
+        "tenor": 5,
+        "price": 0.29112574
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 15,
+      "price": 0.2706062
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 5,
+        "price": 0.276366777
+      },
+      {
+        "maturity": 20,
+        "tenor": 10,
+        "price": 0.289368579
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 15,
+      "price": 0.2706062
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 10,
+        "price": 0.272272272
+      },
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 20,
+      "price": 0.280577705
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 5,
+        "price": 0.276366777
+      },
+      {
+        "maturity": 20,
+        "tenor": 15,
+        "price": 0.295537135
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 20,
+      "price": 0.280577705
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 10,
+        "price": 0.272272272
+      },
+      {
+        "maturity": 25,
+        "tenor": 10,
+        "price": 0.308700298
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 20,
+      "price": 0.280577705
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 15,
+        "price": 0.2706062
+      },
+      {
+        "maturity": 30,
+        "tenor": 5,
+        "price": 0.331053173
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 25,
+      "price": 0.285035483
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 5,
+        "price": 0.276366777
+      },
+      {
+        "maturity": 20,
+        "tenor": 20,
+        "price": 0.302273435
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 25,
+      "price": 0.285035483
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 10,
+        "price": 0.272272272
+      },
+      {
+        "maturity": 25,
+        "tenor": 15,
+        "price": 0.323220627
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 25,
+      "price": 0.285035483
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 15,
+        "price": 0.2706062
+      },
+      {
+        "maturity": 30,
+        "tenor": 10,
+        "price": 0.322392955
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 30,
+      "price": 0.30028306
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 5,
+        "price": 0.276366777
+      },
+      {
+        "maturity": 20,
+        "tenor": 25,
+        "price": 0.317624936
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 30,
+      "price": 0.30028306
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 10,
+        "price": 0.272272272
+      },
+      {
+        "maturity": 25,
+        "tenor": 20,
+        "price": 0.335933517
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 15,
+      "tenor": 30,
+      "price": 0.30028306
+    },
+    "equivalent": [
+      {
+        "maturity": 15,
+        "tenor": 15,
+        "price": 0.2706062
+      },
+      {
+        "maturity": 30,
+        "tenor": 15,
+        "price": 0.345859193
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 6,
+      "price": 0.289575155
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 5,
+        "price": 0.29112574
+      },
+      {
+        "maturity": 25,
+        "tenor": 1,
+        "price": 0.318603534
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 7,
+      "price": 0.285030696
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 5,
+        "price": 0.29112574
+      },
+      {
+        "maturity": 25,
+        "tenor": 2,
+        "price": 0.316008019
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 8,
+      "price": 0.284042544
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 5,
+        "price": 0.29112574
+      },
+      {
+        "maturity": 25,
+        "tenor": 3,
+        "price": 0.314292812
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 9,
+      "price": 0.286073825
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 5,
+        "price": 0.29112574
+      },
+      {
+        "maturity": 25,
+        "tenor": 4,
+        "price": 0.312793036
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 10,
+      "price": 0.289368579
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 5,
+        "price": 0.29112574
+      },
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 15,
+      "price": 0.295537135
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 5,
+        "price": 0.29112574
+      },
+      {
+        "maturity": 25,
+        "tenor": 10,
+        "price": 0.308700298
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 15,
+      "price": 0.295537135
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 10,
+        "price": 0.289368579
+      },
+      {
+        "maturity": 30,
+        "tenor": 5,
+        "price": 0.331053173
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 20,
+      "price": 0.302273435
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 5,
+        "price": 0.29112574
+      },
+      {
+        "maturity": 25,
+        "tenor": 15,
+        "price": 0.323220627
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 20,
+      "price": 0.302273435
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 10,
+        "price": 0.289368579
+      },
+      {
+        "maturity": 30,
+        "tenor": 10,
+        "price": 0.322392955
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 25,
+      "price": 0.317624936
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 5,
+        "price": 0.29112574
+      },
+      {
+        "maturity": 25,
+        "tenor": 20,
+        "price": 0.335933517
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 25,
+      "price": 0.317624936
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 10,
+        "price": 0.289368579
+      },
+      {
+        "maturity": 30,
+        "tenor": 15,
+        "price": 0.345859193
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 30,
+      "price": 0.325265624
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 5,
+        "price": 0.29112574
+      },
+      {
+        "maturity": 25,
+        "tenor": 25,
+        "price": 0.348233812
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 20,
+      "tenor": 30,
+      "price": 0.325265624
+    },
+    "equivalent": [
+      {
+        "maturity": 20,
+        "tenor": 10,
+        "price": 0.289368579
+      },
+      {
+        "maturity": 30,
+        "tenor": 20,
+        "price": 0.359162325
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 25,
+      "tenor": 6,
+      "price": 0.308161024
+    },
+    "equivalent": [
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      },
+      {
+        "maturity": 30,
+        "tenor": 1,
+        "price": 0.328833647
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 25,
+      "tenor": 7,
+      "price": 0.312830107
+    },
+    "equivalent": [
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      },
+      {
+        "maturity": 30,
+        "tenor": 2,
+        "price": 0.326117079
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 25,
+      "tenor": 8,
+      "price": 0.30814783
+    },
+    "equivalent": [
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      },
+      {
+        "maturity": 30,
+        "tenor": 3,
+        "price": 0.327253182
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 25,
+      "tenor": 9,
+      "price": 0.309000698
+    },
+    "equivalent": [
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      },
+      {
+        "maturity": 30,
+        "tenor": 4,
+        "price": 0.332742946
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 25,
+      "tenor": 10,
+      "price": 0.308700298
+    },
+    "equivalent": [
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      },
+      {
+        "maturity": 30,
+        "tenor": 5,
+        "price": 0.331053173
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 25,
+      "tenor": 15,
+      "price": 0.323220627
+    },
+    "equivalent": [
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      },
+      {
+        "maturity": 30,
+        "tenor": 10,
+        "price": 0.322392955
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 25,
+      "tenor": 20,
+      "price": 0.335933517
+    },
+    "equivalent": [
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      },
+      {
+        "maturity": 30,
+        "tenor": 15,
+        "price": 0.345859193
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 25,
+      "tenor": 25,
+      "price": 0.348233812
+    },
+    "equivalent": [
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      },
+      {
+        "maturity": 30,
+        "tenor": 20,
+        "price": 0.359162325
+      }
+    ]
+  },
+  {
+    "initial": {
+      "maturity": 25,
+      "tenor": 30,
+      "price": 0.344704766
+    },
+    "equivalent": [
+      {
+        "maturity": 25,
+        "tenor": 5,
+        "price": 0.314030269
+      },
+      {
+        "maturity": 30,
+        "tenor": 25,
+        "price": 0.34667048
+      }
+    ]
+  }
+]
