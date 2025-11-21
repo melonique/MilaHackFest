@@ -45,5 +45,6 @@
   - https://cloud.quandela.com/webide/
 
 
-
+# Trucs des Super Posés
+pip install -r requirements.txt
 
