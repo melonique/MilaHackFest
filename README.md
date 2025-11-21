@@ -1,6 +1,8 @@
 # TO THE JUDGES:
 Quandela python code is in /main/pytorch_nn_test.py
 
+Results are in /main/predictions_output.csv and /main/track2_results_filled.xlsx
+
 
 
 
