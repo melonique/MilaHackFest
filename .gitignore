@@ -1,2 +1,5 @@
 .venv/
 .DS_Store
+settings.json
+hackathon-env/
+__pycache__/
